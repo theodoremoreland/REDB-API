@@ -93,7 +93,7 @@ REDB-API is a public facing API that comes equipped with interactive documentati
   The acceptable criteria for the FileTypeInput field are as follows:<br>
   [zoning_class, ward, voting_precinct, inspection_area, neighborhood_id, police_district, census_tract]<br>
 
-* **/readb/filter/ids**
+* **/redb/filter/ids**
 
   This endpoint returns json which contain the parcel_ids of all the parcels that match the selected criteria.<br><br>
   The ids endpoint requires two inputs for a get request.<br>
