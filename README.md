@@ -1,9 +1,5 @@
-# REDB API (Abridged)
-An asynchronous REST API for accessing St. Louis Parcel Data stored in the Regional Entity Database (REDB). 
-
-This repository features an abridged version of the actual REDB-API, the actual repository can be found here: https://github.com/stlrda/redb-api  
-
-More information on the Regional Entity Database can be found here: https://github.com/stlrda/REDB-Workflows  
+# REDB API
+An asynchronous REST API for accessing St. Louis Parcel Data stored in the Regional Entity Database (REDB). More information on the Regional Entity Database can be found here: https://github.com/stlrda/REDB-Workflows  
 
 REDB-API is a public facing API that comes equipped with interactive documentation thanks to the Fast-API library. Said documentation can be utilized by anyone over the internet either programatically or through a web browser. Below is a demonstration of using the point-and-click web interface to preview and retrieve data from the Regional Entity Database.
 
