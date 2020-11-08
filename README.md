@@ -9,46 +9,46 @@ REDB-API is a public facing API that comes equipped with interactive documentati
 
 
 ## Home Screen Preview #1
-<img src="presentation/1.PNG" width="600">
+<img src="presentation/1.PNG" width="900">
 
 ## Home Screen Preview #2
-<img src="presentation/2.PNG" width="600">
+<img src="presentation/2.PNG" width="900">
 
 ## Queries Screen Preview #1
-<img src="presentation/3.PNG" width="600">
+<img src="presentation/3.PNG" width="900">
 
 ## Inputting the name "Theodore" for Legal Entity data
-<img src="presentation/4.PNG" width="600">
+<img src="presentation/4.PNG" width="900">
 
 ## Legal Entity data returned from input "Theodore"
-<img src="presentation/5.PNG" width="600">
+<img src="presentation/5.PNG" width="900">
 
 ## You can download the JSON returned from queries
 <img src="presentation/6.PNG" width="600">
 
 ## Grabbing the same Legal Entity data by id
-<img src="presentation/7.PNG" width="600">
+<img src="presentation/7.PNG" width="900">
 
 ## Getting Parcel data for given Legal Entity ID
-<img src="presentation/8.PNG" width="600">
+<img src="presentation/8.PNG" width="900">
 
 ## Getting Parcel data from a REDB parcel_id
-<img src="presentation/9.PNG" width="600">
+<img src="presentation/9.PNG" width="900">
 
 ## Parcel data returned after submitting address: 4921 THEKLA AV
-<img src="presentation/10.PNG" width="600">
+<img src="presentation/10.PNG" width="900">
 
 ## Building counts for Parcels of a certain kind (in this case, those in Ward 9)
-<img src="presentation/11.PNG" width="600">
+<img src="presentation/11.PNG" width="900">
 
 ## Parcel IDs for all Parcels of a certain kind (in this case, those in Ward 9)
-<img src="presentation/12.PNG" width="600">
+<img src="presentation/12.PNG" width="900">
 
 ## Retrieving an excessive amount of data for a Parcel by the handle 10097000030
-<img src="presentation/13.PNG" width="600">
+<img src="presentation/13.PNG" width="900">
 
 ## See the last time REDB was updated
-<img src="presentation/14.PNG" width="600">
+<img src="presentation/14.PNG" width="900">
 
 ## Routes and Query Parameters
 * /redb/parcel/redb_id
