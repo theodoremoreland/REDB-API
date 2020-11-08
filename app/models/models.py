@@ -2,7 +2,7 @@ from pydantic import BaseModel
 from typing import List, Optional
 from datetime import date
 
-# Define Parcel Models
+
 class ParcelInfo(BaseModel):
     parcels: list
     buildings: list
